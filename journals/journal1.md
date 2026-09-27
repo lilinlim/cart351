@@ -1,1 +1,2 @@
-etc
+# journal 1
+For my first entry, I don’t necessarily have a direction for it. I am looking forward to learning more python, and was a bit anxious at first. However, I am relieved to know that we will not be judged based on how the code is written but the thinking behind it. I have coded in python before, but the only vague memory I have of it is how intuitive it is. I used it in a software to make a visual novel. Hopefully the language will stay manageable and I won’t be too overwhelmed.  
