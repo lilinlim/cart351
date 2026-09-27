@@ -107,7 +107,7 @@ print("Expected output: SOMEONE WHO HAS SPENT TOO MUCH TIME")
 # the string, with all whitespace removed, and with all letters converted to
 # uppercase. Use the .upper() method.
 
-print() # your code here!
+print(partLy.upper())
 
 #------------------------------------------------------------------------
 
