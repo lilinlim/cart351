@@ -93,9 +93,8 @@ print("Expected output: someone who has spent too much time")
 # of the variable "partLy", but with all white space removed from
 # the beginning and end of the string. Use the .strip() method.
 
-partLy = "     someone who has spent too much time    \n"
-partLyNew = "     someone who has spent too much time    \n".strip()
-print(partLyNew)
+partLy = "     someone who has spent too much time    \n".strip()
+print(partLy)
 
 #------------------------------------------------------------------------
 
