@@ -69,6 +69,7 @@ print("Expected output: ['artichokes', 'aubergines', 'carrots', 'fiddleheads', '
 # the list "vegetables" (defined above) in alphabetical order. (Use the "sort"
 # function.
 
+vegetables.sort()
 print(vegetables)
 
 #------------------------------------------------------------------------
@@ -82,6 +83,7 @@ print("Expected output: ['artichokes', 'aubergines', 'carrots', 'fiddleheads', '
 # list.
 
 # write your statement here
+vegetables.append("radishes")
 print(vegetables)
 
 #------------------------------------------------------------------------
@@ -100,7 +102,8 @@ print("  radishes")
 # "vegetables" (defined above). (The list should contain the item that you
 # added to the list in task 17.)
 
-
+for veg in vegetables:
+	print(veg)
 
 
 #------------------------------------------------------------------------
@@ -137,7 +140,7 @@ print("  9-18-25")
 
 
 separator = "?"
-glue = "?"
+glue = "-"
 parts = "9/18/25".split(separator)
 print(parts[-1])
 print(glue.join(parts))
