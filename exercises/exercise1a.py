@@ -1,12 +1,5 @@
 # lilin
-# CART 351 EXERCISE TWO
-#
-# This exercise is also a Python program. Your task is to read the 
-# task descriptions below and then write one or more Python statements to
-# carry out the tasks. There's a Python "print" statement before each
-# task that will display the expected output for that task; you can use
-# this to ensure that your statements are correct.
-#
+# CART 351 EXERCISE ONE PART TWO B
 
 print("\n------")
 print("Task 14: List indexes")
