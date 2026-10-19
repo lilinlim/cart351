@@ -1,4 +1,4 @@
 # journal 3
-For this journal, I am thinking about Flask since we will be introduced to it during our return. 
+For this journal, I am thinking about Flask since we will be introduced to it during our return. To get familiar with it, I quickly browsed some stuff about it. I fell onto a video that summarized many Python frameworks. Flask was described as Django's "chill younger sibling", because it is "like lego blocks where you build what you need and not more". They also called it a micro-framework, because "it gives you the absolute basics, then completely out of your way". It's supposedly based on extensions. I do like this description, as it appeases my worries of being too difficult, and hopefully it's doable.
 
-I browsed Reddit for some project suggestions, so I can fully understand what flask can do. Some examples were a weather app, a personal blog, something related to lists, etc. I'm unsure what direction I'd like to go in. 
+I browsed Reddit for some project suggestions, so I can fully understand what flask can do. Some recurrent examples were a weather app, a personal blog, and many more were related to lists, etc. I'm unsure what direction I'd like to go in. I do want to know what kind of games or art based projects can be made with it. 
