@@ -1,0 +1,4 @@
+# journal 4
+After learning about flask, I feel like I'll need to review and practice a bit, but I think I'll hopefully manage.
+
+I've been researching more about project 1 ideas, now that I'm more aware of its constraints. Because there must be an input and output, some ideas stood out to me. Some include typing moods and getting images and colours based on it. Or maybe something scenery based, such as a starry sky or a busy sea would be fitting. An idea that stood out to me the most was making an ASCII generator, which would be imputting an image and getting an ASCII image of it as output. I am unsure how doable it is for my current level, so I will need to do some trying to see if I can succeed.
