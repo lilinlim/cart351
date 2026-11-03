@@ -18,10 +18,10 @@
     </div>
     
     <div class="placeholder">
-        {%if have_results == True%}
-        <p> {{description}} </p>
-        <img src = {{imgPath}}/>
-        {%endif %}
+        {%for results in images%}
+        <img src = "{{results}}"/>
+        {%endfor %}
     </div>
 </section>
 {% endblock %}
+

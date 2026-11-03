@@ -64,3 +64,7 @@ fieldset {
     border-color: rgb(229 97 169);
     color: rgb(229 97 169);
 }
+
+.placeholder {
+    display: grid;
+}
