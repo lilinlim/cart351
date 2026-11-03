@@ -1,0 +1,27 @@
+<!-- will be a child of base-->
+{% extends "base.html" %}
+{% block content %}
+
+<section>
+    <div class="formC">
+        <form id="insertSearchT1" action="/getSearchCriteria"> 
+            <fieldset>
+                <p>
+                    <label> NASA API SEARCH CRITERIA </label>
+                    <input type="text" value="search for..." size="24" maxlength="40" name="searching" required >
+                </p>
+                <p>
+                    <input id="submitRegister" type="submit" value="submit here" name="submit" value="submit here" id=buttonS />
+                </p>
+            </fieldset>
+        </form>
+    </div>
+    
+    <div class="placeholder">
+        {%if have_results == True%}
+        <p> {{description}} </p>
+        <img src = "{{imgPath}}"/>
+        {%endif %}
+    </div>
+</section>
+{% endblock %}
