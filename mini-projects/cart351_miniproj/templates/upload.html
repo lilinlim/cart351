@@ -1,0 +1,36 @@
+<!-- will be a child of base-->
+{% extends "base.html" %}
+<!-- DO NOT FORGET LINKING IT TO THE JS FILE -->
+{% block scriptblock %}
+<script src="{{url_for('static',filename='js/script_post.js')}}"></script>
+{% endblock %}
+
+{% block content %}
+    <div class="formContainer">
+        <!-- REMINDER FORM -->
+        <form id="insertImage">
+            <!-- group the related elements in a form -->
+            <h3> upload a picture to make it ascii ★〜（ゝ。∂๑）! </h3>
+            <fieldset>
+                <p>
+                    <label> upload :</label>
+                    <input type="file" name='the_file' size=10 required />
+                </p>
+                <p>
+                    <label></label>
+                    <input id="submitPlant" type="submit" name="submit" value="submit my info" id=buttonS />
+                </p>
+            </fieldset>
+        </form>
+    </div>
+
+
+    <div id="results">
+        <h4> image ✩ pick ur own </h4>
+        <div id="result-image">
+        </div>
+        <h4> ascii ♡ result </h4>
+        <div id="result-container">
+        </div>
+    </div>
+{% endblock %}

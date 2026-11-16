@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Shantell+Sans:ital,wght@0,300..800;1,300..800&family=Slackey&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="../static/css/base.css">
+    <title> CART351 - MINI-PROJECT 1 </title>
+
+</head>
+
+<body>
+    <header>
+        <h2> image to ascii converter :D </h2>
+        <nav>
+            <ul>
+                <li> <a href="{{url_for('index')}}"> ಄ </a> </li>
+                <li> <a href="{{url_for('uploadImage')}}"> ! </a> </li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        {% block content %}{% endblock %}
+
+        <!--new add a custom block for the script-->
+        {% block scriptblock %}
+        {% endblock %}
+    </main>
+</body>
+
+</html>
