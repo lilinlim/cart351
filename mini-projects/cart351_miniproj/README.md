@@ -3,7 +3,7 @@ My main takeaways from the readings of Hito Steyerl's A Sea of Data: Apophenia a
 
 Why? Because
 
-How would I cuteify data? There are multiple routes to do so. Making it pink 
+How would I cuteify data? There are multiple routes to do so. Making it pink would be the first step, since it is my favourite colour and associated with cute culture. But then what? 
 
 ASCII also has pattern within the characters and how they are applied.
 
