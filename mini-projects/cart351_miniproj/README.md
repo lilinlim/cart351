@@ -1,7 +1,7 @@
 # description:
 A written description (at least 2 paragraphs/ 500 words) explaining the motivations, intentions, references, resources, expected outcomes for the project.
 
-My main takeaways from the readings of Hito Steyerl's A Sea of Data: Apophenia and Pattern (Mis-)Recognition and Mimi Onuoha's The Point of Collection was about data and patterns, as the titles suggest. The question I pulled from the readings was "How would I want to modify data?". As mentionned in my journals, I think the righteous answer is to do nothing, to keep it in its raw form. However, I have the belief that everything gets modified, because human processing is subjective, and when something goes through whatever process, it is bound to change. So instead, the answer from my heart would be to cuteify given data. I am a visual person, so images would be the input and output data.
+My main takeaways from the readings of Hito Steyerl's A Sea of Data: Apophenia and Pattern (Mis-)Recognition and Mimi Onuoha's The Point of Collection was about data and patterns, as the titles suggest. The question I pulled from the readings was "How would I want to modify data?". As mentionned in my journals, I think the righteous answer is to do nothing, to keep it in its raw form. However, I have the belief that everything gets modified, because human processing is subjective, and when something goes through whatever process, it is bound to change. For intance, when we hear information, it already goes through a process when he listen and take it in. When we say it aloud, we're also actively changing it. So instead, the answer from my heart would be to cuteify given data. I am a visual person, so images would be the input and output data.
 
 Why? Because
 
