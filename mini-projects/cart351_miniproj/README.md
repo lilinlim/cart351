@@ -11,6 +11,17 @@ Ressources used were programming forums and youtube videos. The main code was co
 
 The expected outcome of the project is quite simple. There are two pages, a welcome one and one for the converter. 
 
+<img width="1253" height="1266" alt="image" src="https://github.com/user-attachments/assets/1312d443-061b-4122-a916-6281e215ea3c" />
+
+<img width="1251" height="1261" alt="image" src="https://github.com/user-attachments/assets/d1dffad1-b12a-40ae-8fa3-e5d81e3ccb9f" />
+
+<img width="1237" height="1261" alt="image" src="https://github.com/user-attachments/assets/bc7e3ace-a630-4cc4-826d-58ddf2f79e22" />
+
+<img width="1212" height="1267" alt="image" src="https://github.com/user-attachments/assets/559886b5-52b5-480c-a16d-003fb585e847" />
+
+<img width="1217" height="1260" alt="image" src="https://github.com/user-attachments/assets/2d222a95-a56c-43b3-a4b9-a33a720e77d2" />
+
+
 links:
 general:
 https://www.geeksforgeeks.org/python/python-def-keyword/
