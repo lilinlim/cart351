@@ -9,7 +9,7 @@ How would I cuteify data? There are multiple routes to do so. Making it pink wou
 
 Ressources used were programming forums and youtube videos. The main code was combined from _ and _. For uploading the image, I first followed the class tutorial in quick links, but then realized I wanted to switch to the json one. Following those steps, I wasn't able to make it work at first. I noticed a few hours later that my issue was that I doubled folders inside my own code without realizing. This definitely confused the computer, making it not work. I was also a bit disorganized, because I had different project folders for each
 
-The expected outcome of the project is quite simple. There are two pages, a welcome one and one for the converter. 
+The expected outcome of the project is quite simple. There are two pages, a welcome one and one for the converter. The visuals follows the usual class template, but if I continue it for the next project I would edit the aesthetics a bit. 
 
 <img width="1253" height="1266" alt="image" src="https://github.com/user-attachments/assets/1312d443-061b-4122-a916-6281e215ea3c" />
 
