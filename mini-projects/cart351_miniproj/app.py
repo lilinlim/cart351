@@ -1,3 +1,6 @@
+# tutorial from "I know python" on Youtube
+# not linked to project because other code was used
+
 from PIL import Image # pillow
 import sys # to access the files
 

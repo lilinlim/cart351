@@ -1,3 +1,5 @@
+# tutorial from tutorialspoint.com
+
 from PIL import Image #pillow
 import os #operating system
 
@@ -22,9 +24,12 @@ def grayscale(image):
 
 #
 def pixels_to_ascii(image, range_width=25): #value makes the ascii darker or light
+    #extracting pizel data
     pixels = list(image.getdata())
+
     ascii_chars = [ASCII_CHARS[pixel_value // range_width] for pixel_value in pixels]
-    return "".join(ascii_chars)
+
+    return "".join(ascii_chars) #joining
 
 def image_to_ascii(image, new_width=25):
     #resizes the image
@@ -36,8 +41,9 @@ def image_to_ascii(image, new_width=25):
     #pixelfies the image
     ascii_string = pixels_to_ascii(image)
     
-    # Split into lines
+    #splits a line of characters into rows to show it
     ascii_lines = [ascii_string[i:i + new_width] for i in range(0, len(ascii_string), new_width)]
+
     return "\n".join(ascii_lines)
 
 #function to call in main.py bc it has the output
@@ -45,7 +51,7 @@ def convert_image_to_ascii(image_filepath, output_width=50):
     
     image = Image.open(image_filepath)
     
-    # Convert to ASCII
+    #
     ascii_art = image_to_ascii(image, output_width)
     
     #saving to text file
@@ -58,4 +64,4 @@ def convert_image_to_ascii(image_filepath, output_width=50):
     return ascii_art
 
 #example to test that it works
-# convert_image_to_ascii('1.jpg', 50)
+# convert_image_to_ascii('1.jpg', 50) #add file name of choice
